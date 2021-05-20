@@ -1,0 +1,23 @@
+.logo-body {
+  margin: auto;
+  background-color: #151414;
+  text-align: center;
+  border-radius: 15px;
+  max-width: 75%;
+  font-family: Rounded Mplus 1c;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 350%;
+  letter-spacing: -0.015em;
+  color: #f27114;
+}
+
+h1 {
+  margin: auto;
+  line-height: 107px;
+}
+
+p {
+  font-size: 50%;
+  margin: auto;
+}
